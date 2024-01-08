@@ -1,2 +1,2 @@
-# l4d2_auto_company_change
-Automatic company change
+# About auto_company_change
+Automatic company change.
