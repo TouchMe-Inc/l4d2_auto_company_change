@@ -1,0 +1,77 @@
+Companies
+{
+	"default"
+	{
+		"next" "c1m1_hotel"
+	}
+
+	"c1m4_atrium"
+	{
+		"next" "c6m1_riverbank"
+	}
+
+	"c2m5_concert"
+	{
+		"next" "c3m1_plankcountry"
+	}
+
+	"c3m4_plantation"
+	{
+		"next" "c4m1_milltown_a"
+	}
+
+	"c4m5_milltown_escape"
+	{
+		"next" "c5m1_waterfront"
+	}
+
+	"c5m5_bridge"
+	{
+		"next" "c7m1_docks"
+	}
+
+	"c6m3_port"
+	{
+		"next" "c2m1_highway"
+	}
+
+	"c7m3_port"
+	{
+		"next" "c8m1_apartment"
+	}
+
+	"c8m5_rooftop"
+	{
+		"next" "c9m1_alleys"
+	}
+
+	"c9m2_lots"
+	{
+		"next" "c10m1_caves"
+	}
+
+	"c10m5_houseboat"
+	{
+		"next" "c14m1_junkyard"
+	}
+
+	"c11m5_runway"
+	{
+		"next" "c12m1_hilltop"
+	}
+
+	"c12m5_cornfield"
+	{
+		"next" "c13m1_alpinecreek"
+	}
+
+	"c13m4_cutthroatcreek"
+	{
+		"next" "c1m1_hotel"
+	}
+
+	"c14m2_lighthouse"
+	{
+		"next" "c11m1_greenhouse"
+	}
+}
